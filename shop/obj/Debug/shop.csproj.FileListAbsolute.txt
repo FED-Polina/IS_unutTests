@@ -1,0 +1,52 @@
+C:\Users\FEDPo\Documents\Csharp\shop\shop\bin\Debug\shop.exe.config
+C:\Users\FEDPo\Documents\Csharp\shop\shop\bin\Debug\shop.exe
+C:\Users\FEDPo\Documents\Csharp\shop\shop\bin\Debug\shop.pdb
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\MainWindow.g.cs
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\App.g.cs
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop_MarkupCompile.cache
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop_MarkupCompile.lref
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\MainWindow.baml
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop.g.resources
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop.Properties.Resources.resources
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop.csproj.GenerateResource.cache
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop.exe
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop.pdb
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\App.baml
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\View\Bucket.g.cs
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\View\CreateOrderWindow.g.cs
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\View\Bucket.baml
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\View\CreateOrderWindow.baml
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\View\Authorization.g.cs
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\View\WorkWithCatalog.g.cs
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\View\Authorization.baml
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\View\WorkWithCatalog.baml
+C:\Users\FEDPo\Documents\Csharp\shop\shop\obj\Debug\shop.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\bin\Debug\shop.exe.config
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\bin\Debug\shop.exe
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\bin\Debug\shop.pdb
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop.csproj.SuggestedBindingRedirects.cache
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\View\Authorization.g.cs
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\View\Bucket.g.cs
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\View\CreateOrderWindow.g.cs
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\View\WorkWithCatalog.g.cs
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop_MarkupCompile.cache
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop_MarkupCompile.lref
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\App.baml
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\View\Authorization.baml
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\View\Bucket.baml
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\View\CreateOrderWindow.baml
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\View\WorkWithCatalog.baml
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop.g.resources
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop.Properties.Resources.resources
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop.exe
+\\vmware-host\Shared Folders\Загрузки\shop_доЧека — копия 2\shop\obj\Debug\shop.pdb
